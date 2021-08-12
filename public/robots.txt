@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+Disallow: /edit
+Disallow: /success
+
+Sitemap: https://www.dovileko.com/sitemap.xml
